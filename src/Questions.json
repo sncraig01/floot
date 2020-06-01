@@ -1,0 +1,290 @@
+[
+  {
+    "text" : "{} is cool. They should drink.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{} give {} a hug! Both can give out 2 drinks.",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "If you are the oldest in the room, drink 4 times, then give out a sip to a youngster.",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "{}, think of a number. Both {} and {} try to guess it. The loser drinks 3 sips.",
+    "ptps_needed" : 3
+  },
+  {
+    "text" : "Go around the room and name a state associated with a food. Loser drinks 4 times. {} starts.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "Name a celebrity who’s name starts with the same letter as your name. First person that can’t do it takes 3 sips. {} starts!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{} do your best dolphin impression or drink 2 times.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, is your drink half full? Bummer. Finish it.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If you haven’t showered yet today, drink.",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "Go around the circle and name famous YouTubers. First to run out takes 2 sips!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "GROUP DEBATE: who would be the best on survivor, {} or {}? The winner gives out 5 sips!",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "GROUP DEBATE: who would be the best as the Bachelor/bachelorette, {} or {}? The winner gives out 5 sips!",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "VOTE: thumbs up for crocks, thumbs down for heelies. Losers drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "The person to the right of {}, drinks 2 sips!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If you have the same color eyes as {}, drink!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "Everyone close your eyes, and on the count of three look at someone in the group. If you’re looking at the same person {} looks at, drink!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, if you know the programmer of this game, make her a drink or give her a shot depending on how she’s feeling.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, do you like black licorice? Everyone that disagrees with your opinion drinks 2 times.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{} and {} play Rock Paper Scissors. Loser drinks!",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "Have an Android? You must get bullied. Give out 3 drinks.",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "{}, say what the person to your left is most likely to be arrested for. And drink!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "{}, who would be a better astronaut, and why? Everyone that agrees with you drinks!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "If you've pooped more than 3 times today, give out 3 sips. You've had a rough day.",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "Go around the circle and name songs by Justin Beiber. First to run out drinks 3 times! {} starts.",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "VOTE: wine or beer? Thumbs up for wine, down for beer. Losers drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "{}, do you have a tattoo? If so, drink. If not, {} drinks!",
+    "ptps_needed" : 2
+  },
+  {
+    "text": "Has {} ever seen Titanic? If not, everyone drinks!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "TRIVIA (for {}): which President got stuck in a bathtub? If you get it wrong, take 2 sips, otherwise give out 2!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "Go around the circle and name characters from Phineas & Ferb. First to run out drinks 3 times! {} starts.",
+    "ptps_needed" : 1 
+  },
+  {
+    "text": "If you are sitting to the right of {}, give out 5 sips!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "{}, think of your favorite Disney movie. {} and {} try to guess what it is! Winners give out 2 sips, and losers drink 2 sips.",
+    "ptps_needed" : 3
+  },
+  {
+    "text": "{}, think of your ice cream flavor. {} and {} try to guess what it is! Winners give out 2 sips, and losers drink 2 sips.",
+    "ptps_needed" : 3
+  },
+  {
+    "text": "{}, give {} a compliment! Then give out 3 sips.",
+    "ptps_needed" : 2
+  },
+  {
+    "text": "VOTE: Would you rather give up hugs or candy for the rest of your life? Losers drink 3 times!",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "Has {} ever been out of the country? If not, everyone drinks!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "GROUP DEBATE: Who would be most likely to have a reality TV show about them in 10 years? The superstar drinks 3 times!",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "{}, is it ok to but ketchup on mac and scrambled eggs? People that disagree with your opinion, drink.",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "If you're drinking wine, take 1 sip. Beer, take 2 sips. Seltzer/Mixed drink, take 3. Liquor, go to bed.",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "{}, if you're older than {}, drink 3 times! If not, the child drinks.",
+    "ptps_needed" : 2
+  },
+  {
+    "text": "If you're standing, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "If {} has been to California, everyone drinks!",
+    "ptps_needed" : 1
+  },
+  {
+    "text": "Who is taller, {} or {}? Shorty drinks.",
+    "ptps_needed" : 2
+  },
+  {
+    "text": "GROUP DEBATE: Of the players, who would be the best preeschool teacher? The future educator give out 4 sips.",
+    "ptps_needed" : 0
+  },
+  {
+    "text": "If {} knows more about the Kardashians than {}, everyone drinks!",
+    "ptps_needed" : 2
+  },
+  {
+    "text": "Does {} know how to braid? If not, they drink. If they do, everyone else does!",
+    "ptps_needed" : 1 
+  },
+  {
+    "text": "Is {} drinking beer? If yes, dink 3 sips. If not, give them out!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, did you exercise today? If so, congrats you fittness god! Give out 4 sips. Otherwise, drink 2.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "Is {}'s second toe longer than their big toe? If so, they drink, if not, give out 3 sips!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If there is a vegetarian in the room, everyone takes a sip!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "If you have never seen Game of Thrones, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "If you have never seen Friends, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "{}, is your hair longer than {}'s? If yes, give out 2 sips, otherwise, drink them.",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "{}, how much money would someone have to pay you to lick the bottom of {}'s foot? If more than 2 people think it sould be higher, drink!",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "Go around the room and name colleges that start with 'University of...' (you have to know for a fact if they exist). First to run out, drinks 2 times! {} starts.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If you've played Fortnite instead of hanging out with your girlfriend, drink you loser.",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "{}, do you like cilantro? Everyone that disagrees with you has to drink!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If {} has TikTok downloaded, everyone drinks! If not, just they do.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "Has {} made a TikTok dance? If so, give out 3 sips, if not, drink them!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, you lazy bum, do 10 jumping jacks or drink 2 sips.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "{}, choose something in the room that is blue. If {} can guess it in 3 tries, drink! Otherwise, they drink.",
+    "ptps_needed" : 2
+  },
+  {
+    "text" : "Play a round of Cheers to the Governor, starting with {}! If you dont know what that is, everyone drinks.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "SCATTERGORIES: Everyone think of a company/brand that starts with a B. If you came up with the same one as someone else, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "SCATTERGORIES: Everyone think of a musical artist/group that starts with a K. If you came up with the same one as someone else, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "SCATTERGORIES: Everyone think of a TV show that starts with a J. If you came up with the same one as someone else, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "SCATTERGORIES: Everyone think of an item of clothing that starts with an S. If you came up with the same one as someone else, drink!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "If someone's name starts with the same letter as {}'s name, you both drink!",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "Last person to high five someone has to drink 2 sips!",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "{}, you lazy bum, do 10 jumping jacks or drink 2 sips.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If you have never read Harry Potter, drink you muggle.",
+    "ptps_needed" : 0
+  },
+  {
+    "text" : "{}, would {} or {} make a better TV broadcaster, and why? The new TV personality gets to give out 4 sips!",
+    "ptps_needed" : 3
+  },
+  {
+    "text" : "Go around the circle and name books you had to read for school. First to run out drinks! {} begins.",
+    "ptps_needed" : 1
+  },
+  {
+    "text" : "If you have the next birthday, celebrate by giving out 5 sips!",
+    "ptps_needed" : 0
+  }
+]
